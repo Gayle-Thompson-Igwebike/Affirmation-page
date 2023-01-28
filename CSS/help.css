@@ -178,7 +178,7 @@ main {
 .btn-textwrapper{
   justify-content: center;
     align-items: center;
-    display: flex;
+    display: table-column;
     flex-direction: column;
 }
 
@@ -386,7 +386,7 @@ footer h2 {
   }
   .btn-textwrapper{
     display: flex;
-    flex-direction: row;
+    
     justify-content: space-between;
   }
 
